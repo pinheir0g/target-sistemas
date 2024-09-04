@@ -1,32 +1,122 @@
 [
-    {"dia": 1, "faturamento": 1500.50},
-    {"dia": 2, "faturamento": 2450.75},
-    {"dia": 3, "faturamento": 0.0},
-    {"dia": 4, "faturamento": 0.0},
-    {"dia": 5, "faturamento": 1800.00},
-    {"dia": 6, "faturamento": 2200.30},
-    {"dia": 7, "faturamento": 2750.20},
-    {"dia": 8, "faturamento": 0.0},
-    {"dia": 9, "faturamento": 1950.50},
-    {"dia": 10, "faturamento": 2300.80},
-    {"dia": 11, "faturamento": 0.0},
-    {"dia": 12, "faturamento": 3100.10},
-    {"dia": 13, "faturamento": 0.0},
-    {"dia": 14, "faturamento": 2750.50},
-    {"dia": 15, "faturamento": 2950.60},
-    {"dia": 16, "faturamento": 0.0},
-    {"dia": 17, "faturamento": 1850.40},
-    {"dia": 18, "faturamento": 0.0},
-    {"dia": 19, "faturamento": 3200.80},
-    {"dia": 20, "faturamento": 2500.00},
-    {"dia": 21, "faturamento": 2900.00},
-    {"dia": 22, "faturamento": 3100.50},
-    {"dia": 23, "faturamento": 0.0},
-    {"dia": 24, "faturamento": 2750.75},
-    {"dia": 25, "faturamento": 0.0},
-    {"dia": 26, "faturamento": 3000.20},
-    {"dia": 27, "faturamento": 3400.90},
-    {"dia": 28, "faturamento": 0.0},
-    {"dia": 29, "faturamento": 2150.70},
-    {"dia": 30, "faturamento": 2550.00}
+	{
+		"dia": 1,
+		"valor": 22174.1664
+	},
+	{
+		"dia": 2,
+		"valor": 24537.6698
+	},
+	{
+		"dia": 3,
+		"valor": 26139.6134
+	},
+	{
+		"dia": 4,
+		"valor": 0.0
+	},
+	{
+		"dia": 5,
+		"valor": 0.0
+	},
+	{
+		"dia": 6,
+		"valor": 26742.6612
+	},
+	{
+		"dia": 7,
+		"valor": 0.0
+	},
+	{
+		"dia": 8,
+		"valor": 42889.2258
+	},
+	{
+		"dia": 9,
+		"valor": 46251.174
+	},
+	{
+		"dia": 10,
+		"valor": 11191.4722
+	},
+	{
+		"dia": 11,
+		"valor": 0.0
+	},
+	{
+		"dia": 12,
+		"valor": 0.0
+	},
+	{
+		"dia": 13,
+		"valor": 3847.4823
+	},
+	{
+		"dia": 14,
+		"valor": 373.7838
+	},
+	{
+		"dia": 15,
+		"valor": 2659.7563
+	},
+	{
+		"dia": 16,
+		"valor": 48924.2448
+	},
+	{
+		"dia": 17,
+		"valor": 18419.2614
+	},
+	{
+		"dia": 18,
+		"valor": 0.0
+	},
+	{
+		"dia": 19,
+		"valor": 0.0
+	},
+	{
+		"dia": 20,
+		"valor": 35240.1826
+	},
+	{
+		"dia": 21,
+		"valor": 43829.1667
+	},
+	{
+		"dia": 22,
+		"valor": 18235.6852
+	},
+	{
+		"dia": 23,
+		"valor": 4355.0662
+	},
+	{
+		"dia": 24,
+		"valor": 13327.1025
+	},
+	{
+		"dia": 25,
+		"valor": 0.0
+	},
+	{
+		"dia": 26,
+		"valor": 0.0
+	},
+	{
+		"dia": 27,
+		"valor": 25681.8318
+	},
+	{
+		"dia": 28,
+		"valor": 1718.1221
+	},
+	{
+		"dia": 29,
+		"valor": 13220.495
+	},
+	{
+		"dia": 30,
+		"valor": 8414.61
+	}
 ]
